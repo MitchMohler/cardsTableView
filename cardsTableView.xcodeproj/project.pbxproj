@@ -15,6 +15,7 @@
 		94EB01242625C1AE00C9403C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94EB01222625C1AE00C9403C /* LaunchScreen.storyboard */; };
 		94EB012F2625C1AE00C9403C /* cardsTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EB012E2625C1AE00C9403C /* cardsTableViewTests.swift */; };
 		94EB013A2625C1AE00C9403C /* cardsTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EB01392625C1AE00C9403C /* cardsTableViewUITests.swift */; };
+		94EB01482625C1C500C9403C /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94EB01472625C1C500C9403C /* Cards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		94EB01352625C1AE00C9403C /* cardsTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cardsTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		94EB01392625C1AE00C9403C /* cardsTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardsTableViewUITests.swift; sourceTree = "<group>"; };
 		94EB013B2625C1AE00C9403C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94EB01472625C1C500C9403C /* Cards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				94EB01172625C1AD00C9403C /* AppDelegate.swift */,
 				94EB01192625C1AD00C9403C /* SceneDelegate.swift */,
 				94EB011B2625C1AD00C9403C /* ViewController.swift */,
+				94EB01472625C1C500C9403C /* Cards.swift */,
 				94EB011D2625C1AD00C9403C /* Main.storyboard */,
 				94EB01202625C1AE00C9403C /* Assets.xcassets */,
 				94EB01222625C1AE00C9403C /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				94EB011C2625C1AD00C9403C /* ViewController.swift in Sources */,
 				94EB01182625C1AD00C9403C /* AppDelegate.swift in Sources */,
 				94EB011A2625C1AD00C9403C /* SceneDelegate.swift in Sources */,
+				94EB01482625C1C500C9403C /* Cards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
